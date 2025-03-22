@@ -1,0 +1,5 @@
+UserName,Password,http://wso2.org/claims/emailaddress,http://wso2.org/claims/identity/accountLocked,http://wso2.org/claims/identity/accountDisabled,http://wso2.org/claims/userType,http://wso2.org/claims/givenname,http://wso2.org/claims/lastname,http://wso2.org/claims/country,http://wso2.org/claims/identity/accountState
+User1,Password@123,caleb02@example.com,TRUE,TRUE,guest,john1,Smith1,England1,ACTIVE
+User2,Password#123,heather91@example.net,FALSE,TRUE,member,john2,Smith2,England2,PENDING_SP
+User3,Password^123,donaldweaver@example.org,FALSE,TRUE,member,john3,Smith3,England3,PENDING_AP
+User4,Password*123,caleb02@example.com,TRUE,TRUE,guest,john1,Smith1,England1,ACTIVE
